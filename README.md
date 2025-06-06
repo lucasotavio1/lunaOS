@@ -39,7 +39,7 @@ criação de um sistema operacional do zero
 |           `-- puts.asm
 |-- tmp
 |   |-- boot-1.asm
-|   `-- boot-2.img
+|   `-- boot-2.asm
 |-- LICENSE
 |-- README.md
 |-- mk
