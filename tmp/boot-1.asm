@@ -3,8 +3,8 @@
 
 main:
     mov al, 0x2
-	mov ah, 0x0e
-	int 0x10
+    mov ah, 0x0e
+    int 0x10
 
 halt:
     cli
